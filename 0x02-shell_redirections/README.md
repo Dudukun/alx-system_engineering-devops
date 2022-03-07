@@ -1,2 +1,1 @@
-Id prefer the first ones actually>README.md
-echo Id prefer the first ones actually
+displays the third line of the file iacta
