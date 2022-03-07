@@ -1,1 +1,2 @@
-Display the last 10 lines of /etc/passwd
+Id prefer the first ones actually>README.md
+echo Id prefer the first ones actually
