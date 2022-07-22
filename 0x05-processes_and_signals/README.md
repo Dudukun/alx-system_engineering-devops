@@ -1,1 +1,1 @@
-Using your previous exercise command, write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process.
+Write a Bash script that stops 4-to_infinity_and_beyond process.
