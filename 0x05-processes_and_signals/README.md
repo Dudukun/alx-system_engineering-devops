@@ -1,3 +1,1 @@
-a Bash script that displays:
-
-To infinity and beyond indefinitely
+rite a C program that creates 5 zombie processes.
