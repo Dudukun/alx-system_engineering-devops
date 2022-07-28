@@ -1,1 +1,1 @@
-Your script should output: [SENDER],[RECEIVER],[FLAGS]
+The regular expression must match School
