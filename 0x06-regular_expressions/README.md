@@ -1,1 +1,1 @@
-The regular expression must be only matching: capital letters 
+Your script should output: [SENDER],[RECEIVER],[FLAGS]
