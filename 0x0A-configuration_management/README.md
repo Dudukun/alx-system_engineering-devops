@@ -1,1 +1,1 @@
-Using Puppet, install flask from pip3.
+sing Puppet, create a manifest that kills a process named killmenow.
