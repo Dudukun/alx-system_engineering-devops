@@ -1,5 +1,2 @@
-Requirement:
-
-provide the domain name only (example: foobar.tech), no subdomain (example: www.foobar.tech)
-configure your DNS records with an A entry so that your root domain points to your web-01 IP address Warning: the propagation of your records can take time (~1-2 hours)
-go to your profile and enter your domain in the Project website url field 
+Configure your Nginx server to have a custom 404 page that contains the string Ceci nest pas une page. > README.md
+ 
