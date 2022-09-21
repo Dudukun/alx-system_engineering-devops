@@ -1,10 +1,5 @@
-Web servers are the piece of software generating and serving HTML pages, let’s install one!
+Requirement:
 
-Requirements:
-
-Install nginx on your web-01
-server
-Nginx should be listening on port 80
-When querying Nginx at its root / with a GET request (requesting a page) using curl, it must return a page that contains the string Hello World!
-As an answer file, write a Bash script that configures a new Ubuntu machine to respect above requirements (this script will be run on the server itself)
-You can’t use systemctl for restarting nginx 
+provide the domain name only (example: foobar.tech), no subdomain (example: www.foobar.tech)
+configure your DNS records with an A entry so that your root domain points to your web-01 IP address Warning: the propagation of your records can take time (~1-2 hours)
+go to your profile and enter your domain in the Project website url field 
